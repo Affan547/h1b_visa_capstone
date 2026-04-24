@@ -209,6 +209,6 @@ Analyze employer approval ratios
 
 ## Author & Contact
 
-Author: Mahin Fatma
+Author: Affan Imam
 Project: H1B Visa Sponsorship Analytics Capstone
 Tools: Python | MySQL | Power BI
